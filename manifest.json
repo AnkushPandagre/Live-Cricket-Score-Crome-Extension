@@ -1,0 +1,15 @@
+{
+    "name": " Live Cricket Score Bar",
+    "version":"1.0.0",
+    "description":"Best Extension for Live Cricket Score The Cricket Chrome Extension is a powerful and versatile browser extension designed to enhance the cricketing experience for fans, enthusiasts, and followers of the sport. With its user-friendly interface and a wide range of features, this extension brings cricketing content and updates right to your fingertips, making it the perfect companion for cricket lovers.",
+    "manifest_version": 3,
+    "author":"Ankush Pandagre",
+    "action" :{
+        "default_popup": "index.html",
+        "default_title": "My Chrome Extension"
+    },
+    "icons":{
+        "200":"log.png"
+    }
+
+}
